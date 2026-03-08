@@ -1,8 +1,15 @@
 
 # ATC-Radar-Toulouse-Paris
 # Projet d'Analyse de Trajectoires Aériennes : Route Toulouse - Paris
-          __|__
-   --@--@--(_)--@--@--
+      ______     
+  ___/|      |\___
+ /____|_----_|____\
+|_____| o o o |_____|
+ \____|[O]..[O]____/
+       \ \  / /
+        \_\/_/
+
+   ---✈  ✈  ✈---
 
 ## Introduction et Origine des Données
 L'objectif principal de ce projet est d'étudier et d'analyser les trajectoires réelles de vols commerciaux. Pour obtenir ces données, nous avons eu recours à **OpenSky Network**, une plateforme *open-data* de niveau recherche qui capture et affiche le trafic aérien mondial en temps réel. 
