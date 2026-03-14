@@ -37,3 +37,14 @@ Une fois le fichier CSV dans notre environnement, nous avons développé le noya
 Pour enrichir l'analyse spatiale, les aéroports alternatifs le long de la trajectoire ont été cartographiés (ex. Limoges, Châteauroux, Orléans). 
 
 De plus, une couche visuelle a été programmée avec un rayon de protection circulaire de **50 kilomètres** autour de chaque aérodrome. Cette distance se base sur les standards de l'Annexe 11 de l'OACI et les procédures PANS-OPS, représentant l'Aire de Contrôle Terminale étendue : la marge de manœuvre nécessaire pour qu'un aéronef puisse effectuer des circuits d'attente et entamer une approche en toute sécurité.
+
+
+https://www.mh370search.com/
+https://opensky-network.org/data/api
+https://opendata.autorite-transports.fr/rapports/caracteristiques-des-aeroports-du-perimetre-de-regulation-de-lart/
+https://arxiv.org/abs/2109.04247
+https://univ.scholarvox.com/catalog/search/searchterm/AirBus%20A320?searchtype=all
+
+
+
+
